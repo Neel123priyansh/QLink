@@ -91,7 +91,7 @@ export const Login = () => {
       <div className='relative flex flex-row-reverse rounded-2xl h-8/12 w-4xl shadow-neutral-950 shadow-2xl'>
         <div className="relative w-4xl bg-black z-10 overflow-hidden rounded-r-2xl">
           <div className="absolute top-6 pr-3 left-6 z-10 flex flex-col items-start">
-            <span className="text-white mb-1 font-greatvibe font-bold text-4xl">Hello, Priyansh!</span>
+            <span className="text-white mb-1 font-greatvibe font-bold text-4xl">Hello, Shaily!</span>
             <span className="text-white mb-1 text-left font-quicksand max-w-[320px]">
               For enhanced security, facial recognition will be performed after you enter your username and password.
             </span>

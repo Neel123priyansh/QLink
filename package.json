@@ -17,6 +17,7 @@
     "clsx": "^2.1.1",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
     "face-api.js": "^0.22.2",
     "mongoose": "^8.13.2",
     "motion": "^12.7.3",
