@@ -3,7 +3,12 @@
 QLink is a smart RFID-based document access system that generates and displays secure QR codes for viewing documents uploaded via an admin backend. It's designed for seamless, tap-to-view access to important PDFs like ID cards, reports, certificates, etc.
 
 > ✅ Built for smart campuses, institutions, and workplaces looking to digitize document access.
-> ![alt text](https://github.com/Neel123priyansh/Academo/blob/main/img/Screenshot%202025-01-24%20000714.png/?raw=true)
+> ![alt text](https://github.com/Neel123priyansh/QLink/blob/main/img/Screenshot%202025-06-01%20102220.png)
+
+---
+
+## Admin Portal
+![alt text](https://github.com/Neel123priyansh/QLink/blob/main/img/Screenshot%202025-05-01%20134324.png)
 
 ---
 
@@ -21,9 +26,6 @@ QLink is a smart RFID-based document access system that generates and displays s
 - 🖥️ **OLED Display + QR Code**  
   Shows the document name and a scannable QR code on a small OLED screen.
 
-- ☁️ **Hosted on Render**  
-  Backend API hosted on [Render](https://render.com) for public access.
-
 ---
 
 
@@ -39,4 +41,4 @@ QLink is a smart RFID-based document access system that generates and displays s
 ## 🌐 Backend Repo
 
 > Check out the backend powering QLink here:  
-🔗 [QLink_Backend](https://github.com/Neel123priyansh/QLink_backend)
+## 🔗 [QLink_Backend](https://github.com/Neel123priyansh/QLink_backend)
